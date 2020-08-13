@@ -1,6 +1,6 @@
 # Archimedes_theorems
 Proving some of Archimedes' geometric theorems by a simple Monte Carlo simulation.
-I just found them quite interesting, and it was fun to prove them by MC simulation...
+I just found theese theorems quite interesting, and it was fun to prove them by MC simulation...
 
 The first function, named Prove_MC1 demonstrates that if you take a cylinder,
 and a sphere which matches inside the cylinder perfectly (means it touches both the

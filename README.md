@@ -13,4 +13,5 @@ has a surface of 4pi, which is well known... On the other hand it also demonstra
 that if you slice the sphere by paralell planes, which planes are in equal distances
 from each other, theese sections of sphere have equal surfaces as well, and...
 this surface is also equal to the lateral surface area of the corresponding slice of the
-circumscribing cylinder.
+circumscribing cylinder. This latter was Archimedes' favorite theorem, he was
+so proud of it he even made theese two objects drawn on his tombstone.
